@@ -4,8 +4,8 @@ Yii1 Bootstrap 3 BreadCrumbs
 Put This Code In Any View File
 
 <?php 
+
     $this->widget(
-    
             'ext.M_A_Breadcrumbs.M_A_Breadcrumbs',
             array(
                 'crumbs' => array(
@@ -19,4 +19,5 @@ Put This Code In Any View File
                 'delimiter' => '/',  // use any html entity
             )
     );
+    
 ?>
