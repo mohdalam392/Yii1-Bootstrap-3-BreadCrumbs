@@ -1,4 +1,4 @@
-# Yii1-Bootstrap-3-BreadCrumbs
+# Yii1-Bootstrap-3-BreadCrumbs Widget
 Yii1 Bootstrap 3 BreadCrumbs
 
 Put This Code In Any View File
